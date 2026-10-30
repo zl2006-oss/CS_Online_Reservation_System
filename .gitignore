@@ -1,0 +1,13 @@
+﻿# 编译产物
+server
+stress
+client/client
+*.o
+*.out
+a.out
+core
+core.*
+
+# 编辑器
+.vs/
+*.user
